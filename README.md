@@ -5,10 +5,38 @@ Attualmente al terzo anno di **Ingegneria Informatica** presso l'Universitas Mer
 
 ---
 
-### 💻 Esperienza & Focus
-- 🏗️ **Enterprise Software Development:** Presso **DGS S.p.A.** (settore Utilities), mi occupo di manutenzione evolutiva e ottimizzazione di sistemi complessi utilizzando .NET, C# e Visual Basic, con un focus particolare sulla gestione e analisi dei dati tramite SQL Server.
-- 🏆 **Award Winning Developer:** 2° Posto Nazionale al concorso **MIMIT** con *CyberDefender*, un'esperienza immersiva in VR per la formazione sulla Cybersecurity sviluppata in Unity.
-- 📱 **Mobile & Open Data:** Sviluppo di applicazioni mobile (Ionic/Angular) che integrano API di terze parti e Open Data regionali per promuovere la sostenibilità ambientale.
+💻 Esperienza & Focus
+🏗️ Enterprise Software Development (DGS S.p.A. - Settore Utilities):
+
+Mi occupo di manutenzione evolutiva e sviluppo di soluzioni software enterprise, garantendo stabilità ed efficienza ai sistemi esistenti.
+
+Sviluppo Full-Stack: Programmazione in Visual Basic e C# per l'implementazione di nuove funzionalità e l'ottimizzazione di codice legacy.
+
+Gestione Database: Analisi della logica dei dati tramite SSMS, creando e ottimizzando query in T-SQL per migliorare i processi di gestione delle informazioni.
+
+🏛️ Digitalizzazione P.A. (Gestione Lavoro Agile - UniFG):
+
+Progettazione e sviluppo di una Web Application per l'Università di Foggia dedicata al monitoraggio delle richieste di Smart Working.
+
+Architettura: Separazione netta tra Frontend (Angular 16 & TypeScript) e Backend (ASP.NET Core 6 & C#) con API RESTful.
+
+Workflow & Data: Gestione di flussi complessi di approvazione, pianificazione quindicinale e reportistica ufficiale tramite JasperReports.
+
+🏆 Award Winning Developer - CyberDefender (MIMIT):
+
+2° Posto Nazionale al concorso MIMIT con un'esperienza di "Learning by Doing" in VR/AR per Meta Quest sviluppata in Unity.
+
+Gameplay incentrato sulla risoluzione di enigmi tecnici (gestione firewall, decifrazione password, analisi backdoor) per la formazione sulla Cybersecurity.
+
+Guarda il gameplay su YouTube 📺
+
+🌱 Green Tech & Open Data (Hackathon OpenTusk):
+
+Sviluppo di Rifiuti Puglia, app mobile (Ionic/Angular) che integra le API di Open Food Facts e gli Open Data regionali.
+
+Implementazione di sistemi di Gamification (incentivi TARI), Smart Scanning e geolocalizzazione dei centri di raccolta.
+
+Guarda il progetto in azione 📺
 
 ---
 
