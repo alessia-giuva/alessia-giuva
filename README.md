@@ -1,40 +1,71 @@
 # Ciao, sono Alessia Giuva 👋
 
-### 🎓 Studentessa di Ingegneria Informatica | Full-Stack Developer
-Appassionata di architetture scalabili, Cybersecurity e Intelligenza Artificiale. Mi piace trasformare logiche complesse in soluzioni digitali efficienti.
+### 🎓 Ingegneria Informatica | Full-Stack Developer | VR & Cybersecurity Enthusiast
+Attualmente al terzo anno di **Ingegneria Informatica** presso l'Universitas Mercatorum. Unisco una solida base accademica con l'esperienza pratica maturata nello sviluppo di soluzioni software enterprise e progetti ad alto impatto tecnologico.
+
+---
+
+### 💻 Esperienza & Focus
+- 🏗️ **Enterprise Software Development:** Presso **DGS S.p.A.** (settore Utilities), mi occupo di manutenzione evolutiva e ottimizzazione di sistemi complessi utilizzando .NET, C# e Visual Basic, con un focus particolare sulla gestione e analisi dei dati tramite SQL Server.
+- 🏆 **Award Winning Developer:** 2° Posto Nazionale al concorso **MIMIT** con *CyberDefender*, un'esperienza immersiva in VR per la formazione sulla Cybersecurity sviluppata in Unity.
+- 📱 **Mobile & Open Data:** Sviluppo di applicazioni mobile (Ionic/Angular) che integrano API di terze parti e Open Data regionali per promuovere la sostenibilità ambientale.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Linguaggi & Core:**
+**Linguaggi:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Frontend & Mobile:**
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend & Tools:**
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+**Backend & Database:**
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Tools & Others:**
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-CC0000?style=for-the-badge)
 
 ---
 
-### 🚀 Progetti in evidenza
-* **CyberDefender:** VR/AR Educational Game sulla Cybersecurity (2° Posto MIMIT).
-* **Rifiuti Puglia:** App Mobile per la sostenibilità regionale (Hackathon OpenTusk).
-* **Gestione Lavoro Agile:** Web App Enterprise per la Pubblica Amministrazione.
+### 🚀 Progetti in primo piano
+
+#### 🛡️ [CyberDefender | VR Educational Game](https://www.youtube.com/watch?v=hY1N9W41MxU)
+*Escape Room immersiva per Meta Quest.*
+- Sviluppato in **Unity/C#**.
+- Simulazione di attacchi phishing, gestione firewall e decifrazione password.
+- Premiato al concorso nazionale MIMIT.
+
+#### 🏛️ Gestione Lavoro Agile | UniFG
+*Piattaforma per la digitalizzazione della Pubblica Amministrazione.*
+- Architettura: **Angular 16** (Frontend) + **ASP.NET Core 6** (Backend).
+- Gestione flussi di approvazione, workflow quindicinali e reportistica ufficiale via **JasperReports**.
+
+#### 🌱 [Rifiuti Puglia | Mobile App](https://www.youtube.com/watch?v=dcwAdWhQ15Y)
+*Soluzione per la sostenibilità regionale (Hackathon OpenTusk).*
+- Tecnologie: **Ionic**, **Angular**, **Open Data API**.
+- Scansione barcode prodotti tramite *Open Food Facts* e sistema di gamification per incentivi TARI.
 
 ---
 
 ### 📫 Contatti
-- 📧 Email: [alessiaagiuva@gmail.com](mailto:alessiaagiuva@gmail.com)
-- 💼 LinkedIn: [Profilo Professionale](https://www.linkedin.com/in/alessia-giuva-747a05272/)
+- 💼 **LinkedIn:** [alessia-giuva](https://www.linkedin.com/in/alessia-giuva-747a05272/)
+- 📧 **Email:** [alessiaagiuva@gmail.com](mailto:alessiaagiuva@gmail.com)
 
 ---
 *“La curiosità è il motore che spinge ogni riga di codice che scrivo.”*
