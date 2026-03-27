@@ -8,33 +8,33 @@ Attualmente al terzo anno di **Ingegneria Informatica** presso l'Universitas Mer
 💻 Esperienza & Focus
 🏗️ Enterprise Software Development (DGS S.p.A. - Settore Utilities):
 
-Mi occupo di manutenzione evolutiva e sviluppo di soluzioni software enterprise, garantendo stabilità ed efficienza ai sistemi esistenti.
+Manutenzione evolutiva e sviluppo di soluzioni enterprise, garantendo stabilità ed efficienza ai sistemi core.
 
-Sviluppo Full-Stack: Programmazione in Visual Basic e C# per l'implementazione di nuove funzionalità e l'ottimizzazione di codice legacy.
+Sviluppo Full-Stack: Implementazione di nuove funzionalità e ottimizzazione di codice legacy in C# e Visual Basic.
 
-Gestione Database: Analisi della logica dei dati tramite SSMS, creando e ottimizzando query in T-SQL per migliorare i processi di gestione delle informazioni.
+Gestione Database: Analisi tecnica e gestione dati tramite SSMS, ottimizzando query in T-SQL per l'efficienza dei processi aziendali.
 
 🏛️ Digitalizzazione P.A. (Gestione Lavoro Agile - UniFG):
 
-Progettazione e sviluppo di una Web Application per l'Università di Foggia dedicata al monitoraggio delle richieste di Smart Working.
+Progettazione e sviluppo di una Web Application per il monitoraggio dello Smart Working presso l'Università di Foggia.
 
-Architettura: Separazione netta tra Frontend (Angular 16 & TypeScript) e Backend (ASP.NET Core 6 & C#) con API RESTful.
+Architettura: Frontend in Angular 16 (TypeScript) e Backend in ASP.NET Core 6 (C#) con API RESTful.
 
-Workflow & Data: Gestione di flussi complessi di approvazione, pianificazione quindicinale e reportistica ufficiale tramite JasperReports.
+Workflow & Reporting: Gestione flussi approvativi e generazione reportistica ufficiale con JasperReports.
 
 🏆 Award Winning Developer - CyberDefender (MIMIT):
 
-2° Posto Nazionale al concorso MIMIT con un'esperienza di "Learning by Doing" in VR/AR per Meta Quest sviluppata in Unity.
+2° Posto Nazionale al concorso MIMIT con un'esperienza VR/AR immersiva per Meta Quest sviluppata in Unity.
 
-Gameplay incentrato sulla risoluzione di enigmi tecnici (gestione firewall, decifrazione password, analisi backdoor) per la formazione sulla Cybersecurity.
+Training interattivo sulla Cybersecurity: analisi backdoor, gestione firewall e mitigazione attacchi Phishing.
 
 Guarda il gameplay su YouTube 📺
 
 🌱 Green Tech & Open Data (Hackathon OpenTusk):
 
-Sviluppo di Rifiuti Puglia, app mobile (Ionic/Angular) che integra le API di Open Food Facts e gli Open Data regionali.
+Sviluppo di Rifiuti Puglia, app mobile (Ionic/Angular) per la sostenibilità regionale.
 
-Implementazione di sistemi di Gamification (incentivi TARI), Smart Scanning e geolocalizzazione dei centri di raccolta.
+Integrazione API Open Food Facts e utilizzo degli Open Data della Regione Puglia per la gestione intelligente dei rifiuti e gamification (premi TARI).
 
 Guarda il progetto in azione 📺
 
