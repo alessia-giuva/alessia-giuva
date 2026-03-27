@@ -28,15 +28,11 @@ Workflow & Reporting: Gestione flussi approvativi e generazione reportistica uff
 
 Training interattivo sulla Cybersecurity: analisi backdoor, gestione firewall e mitigazione attacchi Phishing.
 
-Guarda il gameplay su YouTube 📺
-
 🌱 Green Tech & Open Data (Hackathon OpenTusk):
 
 Sviluppo di Rifiuti Puglia, app mobile (Ionic/Angular) per la sostenibilità regionale.
 
 Integrazione API Open Food Facts e utilizzo degli Open Data della Regione Puglia per la gestione intelligente dei rifiuti e gamification (premi TARI).
-
-Guarda il progetto in azione 📺
 
 ---
 
