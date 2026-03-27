@@ -32,7 +32,7 @@ Training interattivo sulla Cybersecurity: analisi backdoor, gestione firewall e 
 
 Sviluppo di Rifiuti Puglia, app mobile (Ionic/Angular) per la sostenibilità regionale.
 
-Integrazione API Open Food Facts e utilizzo degli Open Data della Regione Puglia per la gestione intelligente dei rifiuti e gamification (premi TARI).
+Integrazione API e utilizzo degli Open Data della Regione Puglia per la gestione intelligente dei rifiuti e gamification (premi TARI).
 
 ---
 
