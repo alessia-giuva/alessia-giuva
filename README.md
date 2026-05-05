@@ -1,7 +1,7 @@
 # Ciao, sono Alessia Giuva 👋
 
 ### 🎓 Ingegneria Informatica | Junior Software Developer | Full-Stack Developer | FrontEnd | Backend
-Attualmente al terzo anno di **Ingegneria Informatica** presso l'Universitas Mercatorum. Unisco una solida base accademica con l'esperienza pratica maturata nello sviluppo di soluzioni software enterprise e progetti ad alto impatto tecnologico.
+Laureata in Ingegneria Informatica presso l'Universitas Mercatorum, unisco una solida base accademica con l'esperienza pratica maturata nello sviluppo di soluzioni software enterprise e progetti ad alto impatto tecnologico.
 
 ---
 
